@@ -7,11 +7,11 @@
     "website": "https://Aman-kinger.github.io",
     "profiles": [
       { "network": "github", "username": "Aman-kinger", "url": "http://github.com/Aman-kinger" },
-      { "network": "linkedin", "username": "aman", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "aman", "url": "http://twitter.com/changeme" }
+      { "network": "linkedin", "username": "aman", "url": "http://linkedin.com/" },
+      { "network": "twitter", "username": "aman", "url": "http://twitter.com/" }
     ]
   },
-  "interests": [
+  "skills": [
     { "name": "Interactive media" },
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
