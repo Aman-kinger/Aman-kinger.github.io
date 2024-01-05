@@ -12,11 +12,14 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Python" },
+    { "name": "Javascript" },
+    { "name": "Golang" },
+    { "name": "React" },
+    { "name": "Next.js" },
+    {"name": "Node.js"},
+    {"name": "MongoDB"},
+    {"name": "Docker"}
   ],
   "skills": [
     {
