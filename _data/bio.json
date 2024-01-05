@@ -11,7 +11,7 @@
       { "network": "twitter", "username": "aman", "url": "http://twitter.com/" }
     ]
   },
-  "skills": [
+  "interests": [
     { "name": "Interactive media" },
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
